@@ -24,7 +24,7 @@ ADDLearnV2 is the second version of the ADDLearn project, transitioning from a m
 - Access the main application through the provided endpoint.
 
 ## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
